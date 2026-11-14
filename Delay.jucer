@@ -5,6 +5,8 @@
               pluginFormats="buildStandalone,buildVST3" cppLanguageStandard="20">
   <MAINGROUP id="JjT24U" name="Delay">
     <GROUP id="{A43D9473-73DF-B9E6-2EC0-22E67E73D644}" name="Source">
+      <FILE id="lqCZOl" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters.cpp"/>
+      <FILE id="i7E4o9" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
       <FILE id="igLJtK" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="i52wXx" name="PluginProcessor.h" compile="0" resource="0"
